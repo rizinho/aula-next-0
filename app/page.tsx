@@ -9,7 +9,8 @@ export default function Page () {
         
       <ul>
          <li><Link href={'/sobre'}>Sobre</Link></li>
-         <li><Link href={'/cadusuario'}>Cadastro de usuario</Link></li>
+         <li><Link href={'/usuarios/cadusuario'}>Cadastro de usuario</Link></li>
+         <li><Link href={'/usuarios'}>Listar usuarios</Link></li>
       </ul>
       
       </>
