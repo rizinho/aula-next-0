@@ -3,10 +3,10 @@ export default function ListaUsuarios () {
     return(
          <>
          <h1>Usuarios</h1>
-         <p>Usuario 1</p>
-         <p>Usuario 2</p>
-         <p>Usuario 3</p>
-         <p>Usuario 4</p>
+         <p><Link href={'/usuarios/1'}>Usuario 1</Link></p>
+         <p><Link href={'/usuarios/2'}>Usuario 2</Link></p>
+         <p><Link href={'/usuarios/3'}>Usuario 3</Link></p>
+         <p><Link href={'/usuarios/4'}>Usuario 4</Link></p>
            
            
           <ul>
