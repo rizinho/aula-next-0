@@ -8,9 +8,9 @@ export default function Page () {
         <p>A lorena é loca</p>
         
       <ul>
-         <li><Link href={'/sobre'}>Sobre</Link></li>
-         <li><Link href={'/usuarios/cadusuario'}>Cadastro de usuario</Link></li>
-         <li><Link href={'/usuarios'}>Listar usuarios</Link></li>
+         <li><Link href={'/sobre'}>Sobre</Link></li><br/>
+         <li><Link href={'/usuarios/cadusuario'}>Cadastro de usuario</Link></li><br/>
+         <li><Link href={'/usuarios'}>Listar usuarios</Link></li><br/>
       </ul>
       
       </>
